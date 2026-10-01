@@ -275,3 +275,4 @@ C:\Users\adm_rededor\Documents\ESTUDO_SENAI\DOCS 14\MATERIAL-PARA-O-ALUNO-FAZER-
 C:\Users\adm_rededor\Documents\ESTUDO_SENAI\DOCS 14\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net8.0\Exo.WebApi.pdb
 C:\Users\adm_rededor\Documents\ESTUDO_SENAI\DOCS 14\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net8.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\adm_rededor\Documents\ESTUDO_SENAI\DOCS 14\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net8.0\ref\Exo.WebApi.dll
+C:\Users\adm_rededor\Documents\ESTUDO_SENAI\DOCS 14\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net8.0\Exo.WebApi.sourcelink.json
